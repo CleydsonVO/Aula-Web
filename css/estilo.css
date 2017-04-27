@@ -1,0 +1,18 @@
+
+body{
+  background-image: url("../img/fundo.jpg");
+  background-repeat: no-repeat;
+}
+
+.tamanho-teste{
+  height: 400px;
+}
+
+.opaco{
+    opacity: 0.8;
+}
+
+
+.opaco:hover{
+    opacity: 1;
+}
